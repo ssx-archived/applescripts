@@ -1,0 +1,6 @@
+A collection of AppleScripts that other people may find useful.
+
+
+Excel Worksheets to CSV.scpt
+----------------------------
+This script takes each worksheet in an Excel spreadsheet and exports it as a CSV file.
